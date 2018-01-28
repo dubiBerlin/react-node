@@ -2,3 +2,4 @@ node_modules/
 clientid.png
 dev.js
 package-lock.json
+client/
